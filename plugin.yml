@@ -1,6 +1,6 @@
 name: Hub
 author: nadjiebDunk (Reaploder)
-main: Hub\main
+main: hub\main
 api: 4.0.0
 version: 1.0
 
